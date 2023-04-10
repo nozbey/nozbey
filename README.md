@@ -55,8 +55,10 @@
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/11742456/nuri?tab=profile">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+	 <a style="margin-left: 10px;" target="_blank" href="https://medium.com/@nuriozbey">
+					<img src="https://img.icons8.com/stickers/43/null/medium-logo.png"></a>
 	   <a style="margin-left: 10px;" target="_blank" href="https://nuriozbey.com">
-					<img src="https://img.icons8.com/bubbles/42/000000/web.png"></a>
+					<img src="https://img.icons8.com/parakeet/43/null/domain.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="mailto:nuriozbey@gmail.com">
 			<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://nuriozbey.com/resume_nuri.pdf">
