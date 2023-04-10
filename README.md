@@ -1,4 +1,11 @@
-### Hi there 👋
+ [![HitCount](https://hits.dwyl.com/nozbey/nuriozbey.svg?style=flat)](http://hits.dwyl.com/nozbey/nuriozbey) 
+ 
+- 👋 Hi, I’m @nuriozbey
+- 👀 I’m interested in data science.
+- 🌱 I’m currently learning UI design and AI/ML tools.
+- 💞️ I’m looking to collaborate on HTML/CSS/JS and Jupyter Notebook projects.
+- 📫 You can reach me at [nuriozbey.com](https://nuriozbey.com/#contact)!
+
 
 <!--
 **nozbey/nozbey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
